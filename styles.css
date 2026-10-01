@@ -98,7 +98,7 @@ body::before {
     height: 22px;
 
     background-image:
-        url("imagens/estampa.png");
+        url("imagens/imagem/estampa.png");
 
     background-size: 520px auto;
     background-position: center;
